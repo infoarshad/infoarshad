@@ -11,6 +11,10 @@ Hello! I'm Arshad, a passionate developer skilled in various programming languag
 - 💻 Skilled in advanced basic languages such as Python, JavaScript, C++, and more
 - 🌱 Currently learning UI/UX design principles
 
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![React](https://img.shields.io/badge/React-17.0-blue)
+
 ## Skills
 - **Programming Languages**: Python, JavaScript, C++, Java, HTML, CSS
 - **Frameworks**: React, Node.js, Django
