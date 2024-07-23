@@ -4,7 +4,7 @@
 
 Hello! I'm Arshad, a passionate developer skilled in various programming languages and focused on creating user-friendly and interactive applications.
 
-![Profile Banner](assets/banner.png)
+![Profile Banner](https://66.media.tumblr.com/2b2ef6c4ac04ceaca2b43f15a87db9fd/tumblr_pjxsy1MCGc1y0yrefo3_r1_500.gifv)
 
 ## About Me
 - 🎓 B.Tech 3rd-year student
