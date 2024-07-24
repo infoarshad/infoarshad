@@ -7,7 +7,6 @@ Hello! I'm Arshad, a passionate developer skilled in various programming languag
 ![Profile Banner](https://66.media.tumblr.com/2b2ef6c4ac04ceaca2b43f15a87db9fd/tumblr_pjxsy1MCGc1y0yrefo3_r1_500.gifv)
 
 ## About Me
-- 🎓 B.Tech 3rd-year student
 - 💻 Skilled in advanced basic languages such as Python, JavaScript, C++, and more
 - 🌱 Currently learning UI/UX design principles
 
@@ -34,6 +33,6 @@ A cross-platform mobile app developed using Flutter, offering a seamless user ex
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/arshad)
 - [Twitter](https://twitter.com/arshad)
-- [Email](mailto:arshad@example.com)
+- [Email](mailto:remotearshad@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshad&show_icons=true&theme=radical)
