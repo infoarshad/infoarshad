@@ -10,25 +10,6 @@ Hello! I'm Arshad, a passionate developer skilled in various programming languag
 - 💻 Skilled in advanced basic languages such as Python, JavaScript, C++, and more
 - 🌱 Currently learning UI/UX design principles
 
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-17.0-blue)
-
-## Skills
-- **Programming Languages**: Python, JavaScript, C++, Java, HTML, CSS
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
-- **Design**: Figma, Adobe XD
-
-## Projects
-### [Project 1: Interactive Web App](projects/interactive-web-app)
-An interactive web application designed with React and Node.js, featuring a responsive design and engaging user interface.
-
-### [Project 2: Data Analysis Tool](projects/data-analysis-tool)
-A data analysis tool built with Python and Pandas, providing insightful visualizations and data manipulation features.
-
-### [Project 3: Mobile App](projects/mobile-app)
-A cross-platform mobile app developed using Flutter, offering a seamless user experience across different devices.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/arshad)
