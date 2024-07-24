@@ -1,4 +1,5 @@
 # Arshad's GitHub Portfolio
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-ceh&label=Profile%20views&color=0e75b6&style=flat" alt="infoarshad" /> </p>
 
 ## Welcome!
 
