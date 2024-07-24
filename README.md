@@ -19,7 +19,7 @@ Hello! I'm Arshad, a passionate developer skilled in various programming languag
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Connect with Me
+<b align="right"> Connect with Me <b>
 <p align="right">
 <a href="https://linkedin.com/in/infoarshad"><img src="https://img.shields.io/badge/-Arshad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/infoarshad/"></a>
 <a href="https://github.com/infoarshad"><img src="https://img.shields.io/github/followers/infoarshad?label=follow&style=social"></a>
@@ -28,11 +28,5 @@ Hello! I'm Arshad, a passionate developer skilled in various programming languag
 
 </div>
 
-## Connect with Me
-<p align="right">
-<a href="https://linkedin.com/in/infoarshad"><img src="https://img.shields.io/badge/-Arshad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/infoarshad/"></a>
-<a href="https://github.com/infoarshad"><img src="https://img.shields.io/github/followers/infoarshad?label=follow&style=social"></a>
-<a href="https://github.com/infoarshad"><img src="https://img.shields.io/badge/Made%20By-Arshad-orange"></a>
-</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshad&show_icons=true&theme=radical)
