@@ -8,7 +8,7 @@ Hello! I'm Arshad, a passionate developer skilled in various programming languag
 
 
 ## About Me
-- 💻 Skilled in advanced basic languages such as Python, JavaScript, C++, and more
+- 💻 Skilled in advanced basic languages such as Python, JavaScript and more
 - 🌱 Currently learning UI/UX design principles
 
 ## Languages
